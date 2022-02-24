@@ -30,7 +30,7 @@ I check the address on [Etherscan](https://ropsten.etherscan.io/address/0x7BB2B3
 
 After that, I go to the events on [Events - Etherscan](https://ropsten.etherscan.io/address/0x7bb2b3f29fac32dd86b2b760ca180462b2e08e6e#events) and I see on some transactions that there is morse code, as below.
 
-![](screen1.png)
+![](https://github.com/Niceclear/CTF-Writeups/blob/main/24HCTF/Blockchain/screen.png)
 
 But there are many transactions, I can check each transaction manually but it will surely be very long. In the past, i remember that I used the Infura API, a script would be welcome.
 
