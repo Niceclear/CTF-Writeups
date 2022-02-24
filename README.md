@@ -1,3 +1,3 @@
 # CTF-Writeups
 
-Here, you can find here the writeups of the CTF in which I participated.
+Here, you can find the writeups of the CTF in which I participated.
