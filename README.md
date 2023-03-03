@@ -12,7 +12,7 @@ Here, you can find the writeups of the CTF in which I participated.
 - HeroCTF V4 : [11](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/HeroCTF-2022.jpg) / 632 (glob://al_elite)
 - Star2022 - hackademint : [16](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/Star-2022.png) / 359 (Niceclear)
 - Hackvens 2022 : [3](https://ctftime.org/event/1713) / 18 (glob://al_elite)
-- CTF 10k Root-Me : [38](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/CTF10k-Root-Me-2022.png) / 417 (Niceclear)
+- CTF 10k Root-Me : [39](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/CTF10k-Root-Me-2022.png) / 417 (Niceclear)
 - ECW 2022 : 
   - Student Score : [98](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/STUDENT-ECW-CTF-2022.jpg) / 421 (Niceclear)
   - All : [117](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/ECW-CTF-2022.jpg) / 567 (Niceclear)
