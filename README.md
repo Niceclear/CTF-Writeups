@@ -18,8 +18,12 @@ Here, you can find the writeups of the CTF in which I participated.
 - BreizhCTF : [38](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/BreizhCTF-2022.png) / 100 (B'Hack'UP)  
 - Midnightflag : [18](https://ctftime.org/event/1610/) / 200 (B'Hack'UP)
 - Bleuet : [13](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/CTF-BLEUET-FRANCE-AEGE-2022.png) / 141 (Niceclear)
+- Stranger Case : 18 / 24 (RS’Hack)
 - HeroCTF V4 : [11](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/HeroCTF-2022.jpg) / 632 (glob://al_elite)
-- Star2022 - hackademint : [16](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/Star-2022.png) / 359 (Niceclear)
+- 404 CTF : 447 / 2779 (Niceclear)
+- CTF Opération Kernel 3.0 : 36 / XXX (Niceclear)
+- pwnme : 96 / 278 (Niceclear)
+- Star2022 - hackademint : [16](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/Star-2022.png) / 359 (Niceclear) 
 - Hackvens 2022 : [3](https://ctftime.org/event/1713) / 18 (glob://al_elite)
 - CTF 10k Root-Me : [39](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/CTF10k-Root-Me-2022.png) / 417 (Niceclear)
 - ECW 2022 : 
@@ -29,3 +33,14 @@ Here, you can find the writeups of the CTF in which I participated.
   - Student Score : [6](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/STUDENT-DG'hAck-2022.jpg) / 215 (Niceclear)
   - All : [14](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2022/DG'hAck-2022.jpg) / 376 (Niceclear)
 - HTB UNIVERSITY CTF : [2](https://ctftime.org/event/1825/) / 942 (ESNA)
+
+
+### 2021 :
+
+- Midnightflag
+- HeroCTF V3 : [164](https://ctftime.org/event/1284) / 645 (B'Hack'UP)
+- CTF InterIUT : [34](https://ctftime.org/event/1337) / 41 (B'Hack'UP)
+
+
+### 2020 :
+- HeroCTF V2 : [152](https://pbs.twimg.com/media/Em5c-ooWEAUwrW4?format=jpg&name=4096x4096) / 170 (Niceclear)
