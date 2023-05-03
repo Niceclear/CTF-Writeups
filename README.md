@@ -7,6 +7,11 @@ Here, you can find the writeups of the CTF in which I participated.
 ### 2023 :
 
 - BreizhCTF : [11](https://raw.githubusercontent.com/BreizhCTF/breizhctf-2023/main/doc/images/full-scoreboard-2520px.jpg) / 117 (glob://al_elite)  
+- Midnightflag : [12](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/midnight2023.png) / 369 (glob://al_elite)  
+- FCSC : 
+  - Senior : [38](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/SENIOR-FCSC-2023.png) / 578 (Niceclear)
+  - All : [89](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/FCSC-2023.png) / 1364 (Niceclear)
+
 
 ### 2022 :
 
