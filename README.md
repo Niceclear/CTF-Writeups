@@ -11,6 +11,11 @@ Here, you can find the writeups of the CTF in which I participated.
 - FCSC : 
   - Senior : [38](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/SENIOR-FCSC-2023.png) / 578 (Niceclear)
   - All : [89](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/FCSC-2023.png) / 1364 (Niceclear)
+- PwnMe Qualifications :
+  - Student : 28 / 300 (glob://al_elite)
+  - All : [36](https://ctftime.org/event/1924) / 501 (glob://al_elite) 
+- HeroCTF v5 : [3](https://ctftime.org/event/1951) / 1085 (glob://al_elite)
+- Stranger Case Qualifications : 5 / 51 (ASTRE'O'NOT) 
 
 
 ### 2022 :
