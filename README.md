@@ -16,7 +16,14 @@ Here, you can find the writeups of the CTF in which I participated.
   - All : [36](https://ctftime.org/event/1924) / 501 (glob://al_elite) 
 - HeroCTF v5 : [3](https://ctftime.org/event/1951) / 1085 (glob://al_elite)
 - Stranger Case Qualifications : 5 / 51 (ASTRE'O'NOT) 
-
+- Stranger Case Finale : [4](https://twitter.com/Stranger_Case/status/1677350040950513666) / 10
+- ECW 2023 : 
+  - Student Score : [106](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/STUDENT-ECW-CTF-2023.png) / 293 (Niceclear)
+  - All : [139](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2023/ECW-CTF-2023.png) / 420 (Niceclear)
+- DG'hAck :
+  - Student Score : 12 / 1027 (Niceclear)
+  - All : 43 / 1522 (Niceclear)
+- HTB UNIVERSITY CTF : [2](https://ctftime.org/event/2149) / 417 (ESNA)
 
 ### 2022 :
 
